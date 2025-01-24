@@ -1,0 +1,14 @@
+﻿  main.c
+G:\travel_project\Project2\main.c(119,10): warning C4477: “printf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“WCHAR *”
+G:\travel_project\Project2\main.c(135,34): warning C4267: “函数”: 从“size_t”转换到“int”，可能丢失数据
+G:\travel_project\Project2\main.c(235,28): warning C4267: “函数”: 从“size_t”转换到“int”，可能丢失数据
+G:\travel_project\Project2\main.c(385,60): warning C4020: “travel_time”: 实参太多
+G:\travel_project\Project2\main.c(390,60): warning C4020: “travel_time”: 实参太多
+G:\travel_project\Project2\main.c(390,128): warning C4020: “travel_time”: 实参太多
+G:\travel_project\Project2\main.c(406,30): warning C4267: “函数”: 从“size_t”转换到“int”，可能丢失数据
+G:\travel_project\Project2\main.c(1115,34): warning C4244: “初始化”: 从“double”转换到“time_t”，可能丢失数据
+G:\travel_project\Project2\main.c(1138,5): warning C4029: 声明的形参表不同于定义
+G:\travel_project\Project2\main.c(1145,32): warning C4244: “初始化”: 从“double”转换到“time_t”，可能丢失数据
+G:\travel_project\Project2\main.c(1141,31): warning C4101: “travel_tm”: 未引用的局部变量
+G:\travel_project\Project2\main.c(1164,1): warning C4715: “travel_time”: 不是所有的控件路径都返回值
+  Project2.vcxproj -> G:\travel_project\x64\Debug\Project2.exe

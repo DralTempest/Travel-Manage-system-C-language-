@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\travel_project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{20E2AB79-901F-4940-B596-7E07366661CB}|Project2\\Project2.vcxproj|G:\\travel_project\\Project2\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{20E2AB79-901F-4940-B596-7E07366661CB}|Project2\\Project2.vcxproj|solutionrelative:Project2\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20E2AB79-901F-4940-B596-7E07366661CB}|Project2\\Project2.vcxproj|G:\\travel_project\\Project2\\data.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{20E2AB79-901F-4940-B596-7E07366661CB}|Project2\\Project2.vcxproj|solutionrelative:Project2\\data.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "data.txt",
+              "DocumentMoniker": "G:\\travel_project\\Project2\\data.txt",
+              "RelativeDocumentMoniker": "Project2\\data.txt",
+              "ToolTip": "G:\\travel_project\\Project2\\data.txt",
+              "RelativeToolTip": "Project2\\data.txt",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAADMAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-01-01T09:52:20.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.c",
+              "DocumentMoniker": "G:\\travel_project\\Project2\\main.c",
+              "RelativeDocumentMoniker": "Project2\\main.c",
+              "ToolTip": "G:\\travel_project\\Project2\\main.c",
+              "RelativeToolTip": "Project2\\main.c",
+              "ViewState": "AQIAAHMEAAAAAAAAAAAUwHsEAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-12-31T05:45:33.033Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
